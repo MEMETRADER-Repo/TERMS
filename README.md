@@ -1,10 +1,10 @@
 # TERMS
 
-MEMETRADER www.MEMETRADER.xyz ($TRADER)
+# MEMETRADER www.MEMETRADER.xyz ($TRADER)
 Terms, Disclaimer and Conditions of Use for MEMEMEMETRADER
 Date of Revision: May, 2023
 
-Please read these Terms, disclaimer and Conditions of Use (“Terms”) carefully. By engaging with / using MEMETRADER you’re agreeing to be bound by all clauses outlined and contained within these Terms. We’ll start with the basics, including a summary of what MEMETRADER is and is not and some definitions (below) which will help you understand these Terms. 
+## Please read these Terms, disclaimer and Conditions of Use (“Terms”) carefully. By engaging with / using MEMETRADER you’re agreeing to be bound by all clauses outlined and contained within these Terms. We’ll start with the basics, including a summary of what MEMETRADER is and is not and some definitions (below) which will help you understand these Terms. 
 
 If you do not fully understand anything in MEMETRADER´s Terms and Conditions of use, it is your responsibility to seek your own legal counsel to interpret and understand them before interacting any further with MEMETRADER. 
 
